@@ -5,9 +5,10 @@ from bs4 import BeautifulSoup
 # Declarations
 HOMEPAGE = 'http://www.colmedlapaz.org/index.php?option=com_wrapper&view=wrapper&Itemid=72'
 
-# Read webpage
+# Pull HTML
 html = urllib2.urlopen(HOMEPAGE).read()
-html = BeautifulSoup(html)
-soup.prettify()
-for anchor in soup.findAll('a', href=True):
-    print anchor['href']
+
+# Transform HTML
+soup = BeautifulSoup(html)
+
+# TODO: FIND A WAY TO NAVIGATE THE DROPDOWN MENU "Especialidad:"
