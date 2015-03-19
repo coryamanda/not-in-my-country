@@ -1,3 +1,5 @@
+## sample scraper - feel free to fix/reuse
+
 # Output: Get some text following the substring "About" in a company's homepage
 # Input: Provide the list of companies to scrape in the line below
 
