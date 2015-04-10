@@ -6,8 +6,8 @@
 
 ### Repository
 
-In DKDC's DataJam on March 16, 2015, volunteers will split into two groups.
+On DKDC's DataJam on March 16, 2015, volunteers split into two groups.
 
-* Searchers will browse the web to identify publicly-available data about public officials in target countries. A document describing the findings and, if possible, the data themselves, will be stored in the [searchers](https://github.com/jm-contreras/not-in-my-country/tree/master/searches) directory.
+* Searchers browsed the web to identify publicly-available data about public officials in target countries. A document describing the findings and, if possible, the data themselves, will be stored in the [searchers](https://github.com/jm-contreras/not-in-my-country/tree/master/searchers) directory.
 
 * Scrapers will write code to scrape and/or format the data found by searchers. Their code, including appropriate documentation, will be stored in the [scrapers](https://github.com/jm-contreras/not-in-my-country/tree/master/scrapers) directory.
