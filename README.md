@@ -6,8 +6,8 @@
 
 ### Repository
 
-On DKDC's DataJam on March 16, 2015, volunteers split into two groups.
+On DKDC's DataJam on March 16, 2015, volunteers were split into 2 groups.
 
-* Searchers browsed the web to identify publicly-available data about public officials in target countries. A document describing the findings and, if possible, the data themselves, will be stored in the [searchers](https://github.com/jm-contreras/not-in-my-country/tree/master/searchers) directory.
+* Searchers browsed the web to identify publicly-available data about public officials in target countries. A [Hackpad document](https://hackpad.com/Not-In-My-Country-httpswww.notinmycountry.org-RrVYW0iowGI) lists the sources identified and categorizes them by country and best method to mine them (manual entry vs. scraping).
 
-* Scrapers will write code to scrape and/or format the data found by searchers. Their code, including appropriate documentation, will be stored in the [scrapers](https://github.com/jm-contreras/not-in-my-country/tree/master/scrapers) directory.
+* Scrapers wrote initial code to scrape and/or format the data found by searchers. Their code, including appropriate documentation, is stored in the [scrapers](https://github.com/jm-contreras/not-in-my-country/tree/master/scrapers) directory.
