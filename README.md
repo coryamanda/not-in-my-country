@@ -16,6 +16,8 @@ GitHub allows programmers to store and share code. It uses [git](http://en.wikip
 
 If you are new to GitHub, then please refer to their tutorials on [setting up](https://help.github.com/articles/set-up-git/) and [contributing to a repository](https://help.github.com/articles/making-changes/). More comprehensive introductions can be found online, like [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1).
 
-### Introduction to Python Scraping
+### Introduction to Web Scraping
 
 [Web scraping](http://en.wikipedia.org/wiki/Web_scraping) is the act of using a computer program to extract information from a website. Much of the data that we will want to collect for this project will require web scraping.
+
+Although a tutorial on web scraping is beyond the scope of this document (and no two webscraping projects will be alike), we provide links to two good introductions to the subject: [Easy Web Scraping with Python](http://blog.miguelgrinberg.com/post/easy-web-scraping-with-python) and [Easy Web Scraping with R](http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/).
