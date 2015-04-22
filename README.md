@@ -18,4 +18,4 @@ If you are new to GitHub, then please refer to their tutorials on [setting up](h
 
 ### Introduction to Python Scraping
 
-TODO
+[Web scraping](http://en.wikipedia.org/wiki/Web_scraping) is the act of using a computer program to extract information from a website. Much of the data that we will want to collect for this project will require web scraping.
