@@ -20,4 +20,4 @@ If you are new to GitHub, then please refer to their tutorials on [setting up](h
 
 [Web scraping](http://en.wikipedia.org/wiki/Web_scraping) is the act of using a computer program to extract information from a website. Much of the data that we will want to collect for this project will require web scraping.
 
-Although a tutorial on web scraping is beyond the scope of this document (and no two webscraping projects will be alike), we provide links to two good introductions to the subject: [Easy Web Scraping with Python](http://blog.miguelgrinberg.com/post/easy-web-scraping-with-python) and [Easy Web Scraping with R](http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/).
+Although a tutorial on web scraping is beyond the scope of this document (and no two webscraping projects will be alike), we provide links to two good introductions to the subject: [Easy Web Scraping with Python](http://blog.miguelgrinberg.com/post/easy-web-scraping-with-python) and [Easy Web Scraping with R](http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/). Feel free to add to this list of introductions to web scraping!
