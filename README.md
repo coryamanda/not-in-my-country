@@ -10,6 +10,16 @@ On DKDC's DataJam on March 16, 2015, volunteers were split into 2 groups.
 
 * Scrapers wrote initial code to scrape and/or format the data found by searchers. Their code, including appropriate documentation, is stored in the [scrapers](https://github.com/jm-contreras/not-in-my-country/tree/master/scrapers) directory.
 
+### Deliverable
+
+Each data collection exercise (whether manual or programmatic) should results in the creation of a CSV file with the following columns, describing the public official.
+* `first_name` ~ first name
+* `last_name` ~ last name
+* `title` ~ job title
+* `institution` ~ employer
+* `department` ~ section or division, if any, within the employing organization
+* `source` ~ the URL of the webpage that contains the information above
+
 ### Introduction to GitHub
 
 GitHub allows programmers to store and share code. It uses [git](http://en.wikipedia.org/wiki/Git_%28software%29) for version control, documenting how code evolves over time as you make additions, editions, and deletions. Additionally, GitHub makes it easy for multiple programmers to edit the same code, tracking who does what and when.
