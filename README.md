@@ -10,10 +10,10 @@ On DKDC's DataJam on March 16, 2015, volunteers were split into 2 groups.
 
 * Scrapers wrote initial code to scrape and/or format the data found by searchers. Their code, including appropriate documentation, is stored in the [scrapers](https://github.com/jm-contreras/not-in-my-country/tree/master/scrapers) directory.
 
-### Introduction to Python Scraping
-
-TODO
-
 ### Introduction to GitHub
+
+GitHub is a website that allows programmers to store and share code. It uses [git](http://en.wikipedia.org/wiki/Git_%28software%29) for version control, allowing programmers to keep track of how code is updated over time. Additionally, it makes it easy to share code between different programmers.
+
+### Introduction to Python Scraping
 
 TODO
